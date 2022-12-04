@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/close_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/description_selector.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.143" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_description_focused.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_label_focused.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_money.xml" value="0.1685" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_money_focused.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_rp.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/ic_rp_focused.xml" value="0.1685" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/label_selector.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/money_selector.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/drawable/rounded.xml" value="0.1405" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/layout/activity_add_transaction.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/layout/activity_detailed.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/MoneyKu/app/src/main/res/layout/transaction_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
